@@ -1,0 +1,38 @@
+body{
+  background-color: #FFC796;
+  font-family: Times, "Times New Roman", serif
+}
+
+h1{
+  font-family: Times, "Times New Roman", serif;
+  color: #007C02;
+  text-align: center;
+  padding-top: 40px;
+}
+
+h2{
+  text-align: center;
+  font-size: 17px
+}
+
+p{
+  text-align: center;
+}
+
+.menupage{ /* made class to change images, img{} didn't work */
+  width:100%;
+  height:auto;
+}
+
+.pastaphoto{
+  display: block; /*ask what this means */
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: auto;
+}
+
+.paditup{
+  padding-right: 130px;
+  padding-left: 130px;
+}
